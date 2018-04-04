@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HorizontalLineView">
+        <attr name="linecolor" format="color"/>
+        <attr name="textsizedefault"  format="dimension"/>
+        <attr name="textsizeselected"  format="dimension"/>
+        <attr name="textcolorselected" format="color"/>
+        <attr name="textcolordefault" format="color"/>
+        <attr name="bg" format="color"/>
+    </declare-styleable>
+</resources>
